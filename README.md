@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahatalvishwajit
-- 👀 I’m interested in software as well as hardware development
-- 🌱 I’m currently learning about cloud computing, AI and Internet of Things (IoT)
-- 💞️ I’m looking to collaborate on projects related to AI and IoT domains which will be heplful not only for humanity as well as for environment.
+- 👀 I’m interested in software as well as hardware development.
+- 🌱 I’m currently learning about APIs, Microservices, Apache Kafka, PySpark, Big Data.
+- 💞️ I’m looking to collaborate on projects related to anything :) (I am interested to learn new technologies)
 - 📫 How to reach me ...Email- rahatalvishwajit@gmail.com
 
 <!---
